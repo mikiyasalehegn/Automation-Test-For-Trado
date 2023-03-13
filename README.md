@@ -13,7 +13,7 @@ The project is about preparing an automation test framework for Trado website. T
 
 ## Authors
 
-- [@octokatherine](https://github.com/mikiyasalehegn)
+- [@MikiyasAlehegn](https://github.com/mikiyasalehegn)
 
 
 ## Description of the project
